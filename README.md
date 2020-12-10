@@ -5,7 +5,7 @@ Was started and created to learn the basics of JavaScript the bot was ran throug
 
 This bot isn't used anymore as its too bugy and breaks when certain attributes are changed alongside the commands loading system is pretty crappy, My original plan was to make a discord bot where i can upload JS scripts that the bot downloads and adds to the commands list dynamicaly without restarting the bot bascially a community driven discord bot that can gain new abilties by other users.
 
-The permssions system was put in place to prevent certain uploading JS Scripts and more.
+The permssions system was put in place to prevent certain people uploading JS Scripts and more bascially a whitelist system.
 
 This project has been discontinued for awhile the next discord bot will aim to be more stable and provide a better commands load and exection.
 
